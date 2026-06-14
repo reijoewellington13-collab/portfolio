@@ -9,7 +9,11 @@ Python · Pandas · NumPy · Scikit-learn · EDA · Data Cleaning · Automation 
 - Microsoft AI Skills Development Program (2026)
 
 ## Projects
-(Coming soon)
+- ### 1. Titanic Survival Prediction
+- EDA + Machine Learning (Logistic Regression)
+- Accuracy: 80%
+- Tools: Python, Pandas, Seaborn, Scikit-learn
+- [View on Kaggle](https://www.kaggle.com/code/reijoewellington/titanic-survival-prediction-eda-and-ml)
 
 ## Open to Freelance Projects
 📧 reijoewellington13@gmail.com
