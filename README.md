@@ -3,7 +3,7 @@
 🎓 M. Kumarasamy College of Engineering | Anna University
 
 ## Skills
-Python · Pandas · NumPy · Scikit-learn · EDA · Data Cleaning · Automation · Machine Learning
+Python · Pandas · NumPy · Scikit-learn · EDA · Data Cleaning · 
 
 ## Certifications
 - Microsoft AI Skills Development Program (2026)
