@@ -1,35 +1,41 @@
-## 👋 About Me
+<div align="center">
+👋 Hi, I'm Reijoe Wellington J ,an Engineering sudent
+Learning every day. Building with purpose. Growing with people.
+</div>
+🎓 About Me
 
-I am an engineering student who is focused on building myself step by step, both technically and personally.
+I'm an engineering student who believes that strong careers are built on strong foundations. I enjoy starting from the fundamentals, understanding how things really work, and then growing through hands-on practice. I approach every challenge with curiosity, confidence, and a sense of responsibility.
 
-I believe that becoming a good professional is not only about knowing many technologies, but also about being **responsible, consistent, adaptable, and willing to learn**. I try to approach every task with patience and take responsibility for the work I commit to.
+🚀 How I Work
 
-I am naturally curious and enjoy understanding **how and why things work**, rather than simply using them. When I come across something I don't know, I am willing to learn it from the fundamentals and gradually improve my understanding.
+Growth, to me, comes from action. I try to:
 
-### 💡 How I Work
+🌱 Take initiative instead of waiting to be asked
+🎯 Own my responsibilities and see them through
+💬 Communicate clearly so teams stay aligned
+🤝 Collaborate openly and support the people around me
+🧭 Make thoughtful decisions and learn honestly from my mistakes
 
-- 🎯 **Responsible:** I take ownership of the tasks and commitments given to me.
-- 📚 **Willing to Learn:** I don't hesitate to start from the basics when learning something new.
-- 🧩 **Problem Solver:** I try to understand the actual problem before looking for a solution.
-- 🔄 **Adaptable:** I am comfortable learning new concepts and adjusting when requirements change.
-- 🤝 **Team-Oriented:** I value communication, cooperation, and learning from others.
-- ⏳ **Consistent:** I believe steady progress is more valuable than trying to learn everything at once.
-- 🔍 **Curious:** I like exploring unfamiliar concepts and understanding how different systems work.
-- 🛠️ **Practical:** I prefer turning what I learn into something practical so I can understand it better.
-- 📈 **Self-Improving:** I regularly reflect on what I know, what I don't know, and what I need to improve.
+I'm also working on building a leadership mindset: stepping forward when needed, and lifting the team along the way.
 
-### 🚀 My Approach
+🛠️ Featured Projects
+Project	What It's About
+🏥 Doctor–Patient Appointment Platform	A healthcare appointment management system built around secure, reliable workflows.
+🇯🇵 Kaizen	A Japanese language learning platform offering structured lessons and interactive practice.
+🧠 NeuroStabilizer	A neurotechnology-focused project exploring technology-driven solutions.
+🚁 DRDO Drone Project	A project centered on drone technology, communication, and security.
+🎯 My Goal
 
-I don't consider myself an expert. I am currently building my foundation and gradually moving toward higher levels of technical and professional knowledge.
+I want to grow into a dependable and adaptable technology professional, someone who pairs solid technical knowledge with a strong work ethic, teamwork, integrity, and the confidence to take on new challenges.
 
-My approach is simple:
+💡 My Principles
 
-**Learn → Understand → Practice → Build → Improve → Repeat**
+Learn • Take Initiative • Take Responsibility • Lead Together • Improve
 
-I believe that mistakes are part of learning, and I try to use them as opportunities to improve rather than reasons to stop.
+<div align="center">
 
-### 🎓 Professional Goal
+📫 Open to learning, collaborating, and building something meaningful together.
 
-My goal is to become a dependable software professional who can **understand problems, learn the required technologies, work responsibly with a team, and build useful solutions**.
+⭐ Feel free to explore my projects and connect!
 
-I am focused on developing myself continuously and becoming someone who can be trusted not only for technical skills, but also for **commitment, responsibility, communication, and willingness to grow**.
+</div>
